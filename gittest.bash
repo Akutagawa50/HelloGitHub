@@ -1,3 +1,3 @@
 #!/bin/bash
-echo HelloGit
-echo Goodnight Git
+echo Hello GitHub
+echo Goodnight GitHub
